@@ -1,0 +1,18 @@
+﻿figure_file,slide,caption,source,key_message,exists
+01_executive_evidence_dashboard.png,Opening evidence,Five headline KPI cards for Barcelona tourism pressure.,Analysis tables,Pressure is measurable and concentrated.,True
+02_top_tpi_neighbourhoods_bar.png,TPI ranking,Top 10 neighbourhoods by Tourism Pressure Index.,top_tpi_neighbourhoods.csv,Pressure is spatially uneven.,True
+03_district_pressure_burden.png,District burden,Population share compared with tourism-accommodation share.,district_spatial_inequality.csv,Some districts carry more tourism units than population share.,True
+04_port_seasonality_pressure.png,Port seasonality,Monthly port passenger pressure and peak stress.,Port passenger prepared data,Annual totals hide peak-month stress.,True
+05_tourism_pressure_calendar_heatmap.png,Pressure calendar,Monthly heatmap of accommodation and port pressure proxies.,Inside Airbnb calendar and port data,Timing matters for governance triggers.,True
+06_stakeholder_power_exposure_matrix.png,Stakeholder analysis,Decision power versus pressure exposure.,Conceptual scoring from analysis evidence,High-exposure residents need stronger influence.,True
+07_stakeholder_conflict_matrix.png,Conflict analysis,Conflict intensity between major stakeholder groups.,Conceptual stakeholder analysis,Participation design must handle predictable conflicts.,True
+08_participation_gap_table.png,Participation gap,"Stakeholder interests, influence gaps and missing mechanisms.",Conceptual table linked to indicators,Evidence should trigger specific participation mechanisms.,True
+09_tpi_triggered_governance_model.png,Governance model,Data to threshold to stakeholder action to policy response.,TPI indicator logic,TPI can be used as a governance trigger.,True
+10_barcelona_tourism_pressure_council.png,Council proposal,Proposed participatory governance body.,A2 governance design,Monitoring needs an accountable participation body.,True
+11_implementation_kpi_dashboard.png,Implementation KPIs,"Monitoring dashboard with green, amber and red thresholds.",Analysis tables and proposed thresholds,Policy follow-up needs operational thresholds.,True
+12_pressure_adjusted_tourism_value_index.png,Adjusted value,Conceptual index discounting tourism value by local pressure.,district_pressure_summary.csv,High tourism value should be adjusted by local pressure.,True
+13_data_sources_table.png,Data sources,"Clean visual table of datasets, variables, years and slide use.",analysis_dataset_overview.csv,The presentation is grounded in reproducible sources.,True
+existing_01_tpi_choropleth_simplified.png,Existing map,Presentation re-export of the TPI choropleth.,Existing analysis figure,The spatial pattern supports neighbourhood targeting.,True
+existing_02_hut_vs_airbnb_pressure_scatter.png,Existing scatter,Presentation re-export of the HUT versus Airbnb scatterplot.,Existing analysis figure,HUT and Airbnb pressures overlap but are not identical.,True
+existing_03_policy_matrix_clean.png,Existing policy matrix,Presentation re-export of the policy matrix.,Existing analysis figure,Evidence connects directly to policy recommendations.,True
+existing_04_stakeholder_matrix_clean.png,Existing stakeholder figure,Presentation re-export of the stakeholder matrix/table.,Gamma stakeholder assets,Participation must be tied to measurable pressure.,True

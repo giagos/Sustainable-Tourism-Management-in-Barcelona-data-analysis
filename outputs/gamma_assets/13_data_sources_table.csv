@@ -1,0 +1,9 @@
+﻿Dataset,Rows,Years,Key variables,Slide use
+Inside Airbnb listings,18.2k,2011-2025,"id, name, host_id, host_profile_id, host_name","TPI, Airbnb intensity, stakeholder exposure"
+Inside Airbnb calendar,6.6M,2025-2026,"listing_id, date, available, price, adjusted_price",monthly accommodation pressure calendar
+Inside Airbnb reviews,991.8k,2010-2025,"listing_id, date",use-intensity component
+HUT licences,248.8k,metadata / snapshot,"n_expedient, districte, barri, tipus_carrer, carrer",licensed accommodation pressure
+Port passengers,2.0k,2019-2025,"man_any_servei_id, man_mes_servei_id, man_mes_any_servei_id, esc_tipus_vaixell_desc, esc_tipus_vaixell_id",seasonality and peak stress
+Electricity consumption,1.7M,2019-2025,"any, data, codi_postal, sector_economic, tram_horari",resource-use proxy
+Air quality stations,320.0,metadata / snapshot,"estacio, nom_cabina, codi_dtes, zqa, codi_eoi",environmental monitoring coverage
+Population denominators,511.0,metadata / snapshot,"year, district_code, district_name, neighbourhood_code, neighbourhood_name",per-resident pressure denominators
