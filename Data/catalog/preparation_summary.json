@@ -1,0 +1,13 @@
+{
+  "raw_files_in_manifest": 53,
+  "prepared_files_written": 53,
+  "status_counts": {
+    "ok": 53
+  },
+  "prepared_files_by_source_group": {
+    "barcelona_open_data": 40,
+    "inside_airbnb": 7,
+    "port_barcelona": 6
+  },
+  "report_path": "Data\\catalog\\preparation_report.csv"
+}

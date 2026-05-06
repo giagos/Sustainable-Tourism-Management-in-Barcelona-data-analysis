@@ -1,0 +1,8 @@
+# Raw data - contains sensitive information
+Data/raw/
+
+# Large prepared data directories
+Data/prepared/barcelona_open_data/
+Data/prepared/inside_airbnb/
+Data/prepared/port_barcelona/
+Data/prepared/supplementary/

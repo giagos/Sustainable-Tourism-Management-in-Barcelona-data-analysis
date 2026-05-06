@@ -1,0 +1,6 @@
+﻿area,decision
+Population denominators,"Used Open Data BCN pad_mdbas_sexe resident population by neighbourhood, latest available year 2025."
+Spatial unit,"Neighbourhood is the main unit for HUT, Airbnb, population and maps; district summaries are provided as a roll-up."
+Electricity,Kept as postcode/citywide resource-pressure proxy because no official postcode-to-neighbourhood crosswalk is present in the prepared data.
+Air quality,Used station/pollutant metadata as monitoring coverage; pollutant observation time series are not in the prepared source list.
+Tourism Pressure Index,"Built an available-data index from z-scored HUT, Airbnb, entire-home, reviews and availability components; it should be described as an indicator of measured pressure, not a causal proof of policy effectiveness."
